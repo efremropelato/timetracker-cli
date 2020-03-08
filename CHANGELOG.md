@@ -7,9 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2020-03-08
+> Set community template
+
 ### Added
 
 - issue template (bug & feature)
+- code_of_conduct and contributing template
 
 ### Changed
 
