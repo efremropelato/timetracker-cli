@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- issue template (bug & feature)
+
+### Changed
+
+- travis-cli build only master and develop branch
+
 
 ## [0.0.0] - 2020-03-08
 > Init Project
