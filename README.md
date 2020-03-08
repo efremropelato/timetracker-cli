@@ -1,4 +1,4 @@
-timetracker
+TimeTracker
 ===========
 
 Easy TimeTracker
@@ -8,7 +8,12 @@ Easy TimeTracker
 [![Downloads/week](https://img.shields.io/npm/dw/timetracker.svg)](https://npmjs.org/package/timetracker)
 [![License](https://img.shields.io/npm/l/timetracker.svg)](https://github.com/efremropelato/timetracker/blob/master/package.json)
 
+| Master  | [![Build Status](https://travis-ci.com/efremropelato/timetracker.svg?branch=master)](https://travis-ci.com/efremropelato/timetracker) |
+| ------- | ------------------------------------------------------------ |
+| Develop | [![Build Status](https://travis-ci.com/efremropelato/timetracker.svg?branch=develop)](https://travis-ci.com/efremropelato/timetracker) |
+
 <!-- toc -->
+
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
